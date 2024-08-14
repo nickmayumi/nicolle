@@ -1,6 +1,6 @@
 body {
-    color: rgb(255, 255, 255);
-    background: red;
+    color: rgba(255, 255, 255, 0.014);
+    background: rgba(0, 0, 0, 0.151);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
